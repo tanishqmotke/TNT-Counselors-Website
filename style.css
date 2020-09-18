@@ -420,7 +420,7 @@ p {
 
 /*-----------------------------------------------map--------------------------------------------*/
 .map .contain-box {
-    background-image: url(images/v1.png);
+    background-image: url(images/what-we-do-background.png);
     background-position: center;
     background-size: cover;
     width: 100%;
